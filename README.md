@@ -12,10 +12,10 @@ I would also like to note that this was my very first Python/data science projec
 
 All notebooks were ran exclusively on Kaggle kernels, all `.py` files were also ran on Kaggle kernels, but also tested on the following platform:
 
-`Intel M-5Y10c` dual core 0.80GHz CPU,<br />
-`Intel HD Graphics 5300` GPU,<br />
-`8 GB` RAM,<br />
-`Manjaro Linux - Kernel 5.10.89-1` OS.<br />
+CPU: `Intel M-5Y10c` (dual core 0.80GHz)<br />
+GPU: `Intel HD Graphics 5300`<br />
+RAM: `8 GB`<br />
+OS: `Manjaro Linux - Kernel 5.10.89-1`<br />
 
 This directory contains two models: the model used as a final submission to the competition, scoring 0.20013 RMSPE on the public dataset, and a second, more practical model that could be used in a real life scenario, scoring 0.22955 RMSPE on the public dataset.
 
